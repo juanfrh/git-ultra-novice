@@ -4,7 +4,7 @@
 UCL's git-novice
 ================
 
-An introduction to version control for novices using Git (with the UCL's twist)
+An introduction to Version Control for novices using Git (with the UCL's twist)
 Please see [the rendered version of this material](http://github-pages.ucl.ac.uk/git-novice/),
 and [the lesson template documentation][lesson-example]
 for instructions on formatting, building, and submitting material,
